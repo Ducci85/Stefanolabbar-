@@ -1,1 +1,6 @@
 C:\Users\ducci\Source\Repos\Hangman\Tester\Tester\bin\Debug\Tester.exe.config
+C:\Users\ducci\Source\Repos\Hangman\Tester\Tester\bin\Debug\Tester.exe
+C:\Users\ducci\Source\Repos\Hangman\Tester\Tester\bin\Debug\Tester.pdb
+C:\Users\ducci\Source\Repos\Hangman\Tester\Tester\obj\Debug\Tester.csprojResolveAssemblyReference.cache
+C:\Users\ducci\Source\Repos\Hangman\Tester\Tester\obj\Debug\Tester.exe
+C:\Users\ducci\Source\Repos\Hangman\Tester\Tester\obj\Debug\Tester.pdb
