@@ -32,11 +32,11 @@ namespace Labb2_Stefano
 
         Snake mySnake = new Snake
         {
-            NumberOfLegs = "0",
+            NumberOfLegs = 0,
             Weight = "2",
             Age = 5,
             Sound = "The Snake hisses",
-            Length = "3"
+            Length = 3
         };
 
         Dove myDove = new Dove

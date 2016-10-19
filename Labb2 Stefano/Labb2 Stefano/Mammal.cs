@@ -7,11 +7,11 @@ namespace Labb2_Stefano
 {
     public class Mammal : Animal
     {
-        public string WarmBlooded { get; set; }
+        public bool IsWarmBlooded { get; set; }
 
         public override string Introduction()
         {
-            return String.Format("{0} {1} Is the dog warm blooded?", base.Introduction(), WarmBlooded);
+            return String.Format("{0} {1} Is the dog warm blooded?", base.Introduction(), IsWarmBlooded);
         }
     }
 }

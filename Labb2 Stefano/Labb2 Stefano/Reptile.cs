@@ -7,7 +7,7 @@ namespace Labb2_Stefano
 {
     public class Reptile : Animal
     {
-        public string NumberOfLegs { get; set; }
+        public int NumberOfLegs { get; set; }
 
         public override string Introduction()
 
