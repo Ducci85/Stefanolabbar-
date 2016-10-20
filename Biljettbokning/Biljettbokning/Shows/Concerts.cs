@@ -5,8 +5,8 @@ using System.Text;
 
 namespace Biljettbokning
 {
-    public class Festivaler : Event
+    public class Concerts : Event
     {
-        public string Festivalnamn { get; set; }
+        public string Artists { get; set; }
     }
 }

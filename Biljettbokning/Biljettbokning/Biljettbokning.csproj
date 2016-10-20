@@ -43,12 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Event.cs" />
+    <Compile Include="Shows\Event.cs" />
     <Compile Include="Manager.cs" />
     <Compile Include="Order.cs" />
-    <Compile Include="Shows\Festivaler.cs" />
-    <Compile Include="Shows\Filmer.cs" />
-    <Compile Include="Shows\Konserter.cs" />
+    <Compile Include="Shows\Festivals.cs" />
+    <Compile Include="Shows\Movies.cs" />
+    <Compile Include="Shows\Concerts.cs" />
     <Compile Include="Menus.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

@@ -7,7 +7,10 @@ namespace Biljettbokning
 {
     public class Order
     {
-        public Festivaler Festival { get; set; }
+        public Festivals Festival { get; set; }
+        public Movies Movie { get; set; }
+        public Concerts Concert { get; set; }
         public string UserName { get; set; }
+
     }
 }

@@ -5,8 +5,8 @@ using System.Text;
 
 namespace Biljettbokning
 {
-    public class Filmer : Event
+    public class Movies : Event
     {
-        public string Titel { get; set; }
+        public string Titels { get; set; }
     }
 }
